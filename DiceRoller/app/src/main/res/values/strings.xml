@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Helmi Zulfikar</string>
+    <string name="desc_avatar">photo avatar</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget facilisis ex, sit amet tincidunt arcu. Nunc in ornare neque, vel semper lacus. Nunc viverra tempus libero. Curabitur id malesuada nisl. Nunc nunc arcu, suscipit a congue sed, sodales et leo. Nulla mauris mauris, tristique id ornare sed, rutrum pellentesque purus. Phasellus ac blandit massa, sit amet tempor turpis. Duis porttitor mauris eget turpis faucibus pellentesque.
+        \n\n
+        Donec luctus venenatis placerat. Integer placerat risus tincidunt neque congue tempus nec vel risus. In augue turpis, placerat eu erat ac, scelerisque interdum tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus bibendum tincidunt diam, nec mattis mi elementum eget. Nam nisi est, efficitur vitae aliquet nec, luctus quis libero. Aliquam rutrum posuere placerat. Integer bibendum sapien congue nisl bibendum, sed porttitor nibh porttitor. Aenean at accumsan tellus, a placerat nulla. Quisque non tortor quis turpis tincidunt tincidunt eu sed nunc. Duis et dapibus nulla, accumsan vulputate turpis. In eu tellus ut nisl euismod hendrerit id non orci. Donec auctor tortor in erat consectetur, vitae maximus nunc finibus. Suspendisse nisi felis, feugiat sed libero vel, luctus vestibulum tortor. Cras nulla ipsum, sollicitudin a lacinia eu, dapibus ac neque. Donec facilisis a enim ac faucibus.
+        \n\n
+        Aliquam sed enim non lorem facilisis hendrerit. Nulla facilisi. Praesent facilisis arcu ac pulvinar hendrerit. Curabitur vestibulum sed ex eget vulputate. Pellentesque eleifend eget ex fermentum congue. Nullam mi metus, viverra eu auctor vitae, sodales vitae ligula. Nunc pulvinar aliquam lorem non sagittis. Ut interdum posuere nibh sit amet porta. Nullam bibendum porttitor vehicula. Morbi aliquet non nulla iaculis scelerisque. Aenean ipsum ligula, malesuada ut dictum ac, feugiat et orci. Praesent volutpat lorem id eros pharetra, ut hendrerit lacus molestie. Donec laoreet ornare eros. Nam fermentum rutrum dictum. Ut tempus, ante eu pharetra volutpat, nisl libero ultrices dui, eu dapibus risus ex et leo. Etiam eget erat at urna ullamcorper ultrices id ut nisl.
+        \n\n
+        Aliquam risus eros, pellentesque et iaculis in, eleifend tempus nisl. Aliquam nec magna id justo placerat blandit. Nam at libero quis quam tempus dictum nec vitae sem. Sed ex mi, molestie eget fringilla a, interdum id sapien. Aliquam erat volutpat. Aliquam eu ornare nisi. Aliquam erat volutpat. Integer porttitor metus elit, non venenatis nisl tempus in. Nullam efficitur blandit risus at ultricies. Pellentesque aliquet risus vitae posuere maximus. Proin tempus tellus sed massa tempor, vel aliquam felis sodales. Nunc a orci sit amet dolor tempus laoreet.
+        \n\n
+        Duis a auctor urna. Nunc feugiat consequat mi, id tincidunt odio rutrum eget. Mauris ultrices urna nec accumsan iaculis. Suspendisse vehicula iaculis nisi, a vestibulum lorem imperdiet in. Proin lobortis mi non nisi condimentum placerat. Maecenas aliquet gravida luctus. Morbi ullamcorper augue turpis, ut vestibulum magna sollicitudin eu. Fusce eget congue lectus. Etiam vitae feugiat urna, eu facilisis urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor ipsum, tempor sed velit ut, rhoncus bibendum massa. Cras nec enim ipsum. Donec ullamcorper congue felis, in rutrum turpis sagittis vel.
+    </string>
+    <string name="placeholder_nickname">What\'s your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="data_binding">Data Binding</string>
+</resources>
